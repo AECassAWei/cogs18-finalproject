@@ -1,0 +1,4 @@
+# If your project has any requirements not included in anaconda, include them here
+
+# packages for analyzing sentiments
+pip install textblob
